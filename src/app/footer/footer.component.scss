@@ -1,0 +1,21 @@
+$color-first:#5680e9;
+$color-second: #84ceeb;
+$color-third: #5ab9eb;
+$color_fourth:#c1c8e4;
+$color_fifth:#8860d0;
+.footer{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding:1rem;
+    background-color: $color_fifth;
+    text-align: center;
+    a{
+        color: white;
+        &:visited{
+
+            
+        }
+    }
+}
